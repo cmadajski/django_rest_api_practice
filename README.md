@@ -1,2 +1,11 @@
-# django_rest_api_practice
-A practice REST API using Django REST framework.
+# Django REST API Practice Project
+
+A practice project for learning and building a REST API using Django REST Framework.
+
+## Authors
+- [Christian Madajski](https://github.com/cmadajski)
+- Nathan Dhawale
+
+## Application Functions
+
+~ WIP ~
